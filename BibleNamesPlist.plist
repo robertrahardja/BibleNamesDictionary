@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
+<array>
 <dict>
                     <key>Jarvah</key><string>breathing</string>
                     <key>Mishal</key><string> parables governing</string>
@@ -2650,4 +2651,5 @@
                     <key>Happizzez</key><string>The Scattering. Dispersion</string>
                     <key>Maziah</key><string>consolation of Iesus”</string>
  </dict>
+  </array>
 </plist>
