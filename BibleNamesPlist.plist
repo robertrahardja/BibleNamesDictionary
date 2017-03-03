@@ -1474,5 +1474,1006 @@
 	<key>Zur</key><string>Rock </string>
 	<key>Zuriel</key><string>God Is A Rock Rock Of God My Rock Is El </string>
 	<key>Zurishaddai</key><string>The Almighty Is A Rock Rock Of The Almighty My Rock Is Shaddai </string>
- </dict>
+		<key>Abana</key><string> made of stone; a building </string>
+	<key>Abba</key><string> father </string>
+	<key>Abednego</key><string> servant of light; shining </string>
+	<key>Abez</key><string> an egg; muddy </string>
+	<key>Abiah</key><string> the Lord is my father </string>
+	<key>Abib</key><string> green fruit; ears of corn </string>
+	<key>Accho</key><string> close; pressed together </string>
+	<key>Aceldama</key><string> field of blood </string>
+	<key>Achab</key><string> brother of the father </string>
+	<key>Achaz</key><string> one that takes </string>
+	<key>Achish</key><string> thus it is; how is this </string>
+	<key>Achmetha</key><string> brother of death </string>
+	<key>Achshaph</key><string> poison; tricks </string>
+	<key>Adadah</key><string> testimony of the assembly </string>
+	<key>Adami</key><string> my man; red; earthy; human </string>
+	<key>Adar</key><string> high; eminent </string>
+	<key>Addin</key><string> adorned; delicious; voluptuous </string>
+	<key>Admatha</key><string> a cloud of death; a mortal vapor </string>
+	<key>Adramyttium</key><string> the court of death </string>
+	<key>Aeneas</key><string> praised; praiseworthy </string>
+	<key>Aenon</key><string> a cloud; fountain; his eye </string>
+	<key>Agabus</key><string> a locust; the father's joy or feast </string>
+	<key>Agar</key><string> or Hagar </string>
+	<key>Agrippa</key><string> one who causes great pain at his birth </string>
+	<key>Ahasuerus</key><string> prince; head; chief </string>
+	<key>Ahava</key><string> essence; being; generation </string>
+	<key>Ahiah</key><string> brother of the Lord </string>
+	<key>Ahlab</key><string> made of milk </string>
+	<key>Aholah</key><string> his tabernacle; his tent </string>
+	<key>Aholiab</key><string> the tent of the father </string>
+	<key>Aholibah</key><string> my tent </string>
+	<key>Aholibamah</key><string> my tabernacle is exalted </string>
+	<key>Ahuzam</key><string> their taking or possessing vision </string>
+	<key>Ahuzzah</key><string> possession; seizing; collecting </string>
+	<key>Aiath</key><string> same as Ai; an hour; eye; fountain </string>
+	<key>Ajalon</key><string> a chain; strength; a stag </string>
+	<key>Akrabbim</key><string> scorpions </string>
+	<key>Alammelech</key><string> God is king </string>
+	<key>Alleluia</key><string> praise the Lord </string>
+	<key>Alpheus</key><string> a thousand; learned; chief </string>
+	<key>Alush</key><string> mingling together </string>
+	<key>Amad</key><string> people of witness; a prey </string>
+	<key>Aman</key><string> mother; fear of them </string>
+	<key>Amashai</key><string> the people's gift </string>
+	<key>Aminadab</key><string> same as Amminadab </string>
+	<key>Amplias</key><string> large; extensive </string>
+	<key>Anab</key><string> a grape; a knot </string>
+	<key>Anaharath</key><string> dryness </string>
+	<key>Anathema</key><string> separated; set apart </string>
+	<key>Aner</key><string> answer; song; affliction </string>
+	<key>Antioch</key><string> speedy as a chariot </string>
+	<key>Antipas</key><string> for all </string>
+	<key>Antipatris</key><string> for </string>
+	<key>Antothijah</key><string> answers or songs of the Lord; afflictions </string>
+	<key>Anub</key><string> same as Anab </string>
+	<key>Apelles</key><string> exclusion; separation </string>
+	<key>Apharsathchites</key><string> Apharsites (from a root meaning) dividing or rending </string>
+	<key>Aphek</key><string> Aphekah </string>
+	<key>Aphiah</key><string> speaking </string>
+	<key>Apocalypse</key><string> uncovering </string>
+	<key>Apocrypha</key><string> hidden </string>
+	<key>Apollonia</key><string> perdition </string>
+	<key>Apollonius</key><string> destroying </string>
+	<key>Apollos</key><string> one who destroys; destroyer </string>
+	<key>Apollyon</key><string> a destroyer </string>
+	<key>Appaim</key><string> face; nostrils </string>
+	<key>Aquila</key><string> an eagle </string>
+	<key>Ara</key><string> cursing; seeing </string>
+	<key>Archelaus</key><string> the prince of the people </string>
+	<key>Archippus</key><string> a master of horses </string>
+	<key>Arcturus</key><string> a gathering together </string>
+	<key>Areopagus</key><string> the hill of Mars </string>
+	<key>Argob</key><string> a turf </string>
+	<key>Armageddon</key><string> hill of fruits; mountain of Megiddo </string>
+	<key>Arpad</key><string> the light of redemption </string>
+	<key>Arphaxad</key><string> a healer; a releaser </string>
+	<key>Artaxerxes</key><string> the silence of light; fervent to spoil </string>
+	<key>Artemas</key><string> whole </string>
+	<key>Asareel</key><string> the beatitude of God </string>
+	<key>Ashdod</key><string> effusion; inclination; theft </string>
+	<key>Ashima</key><string> crime; offense </string>
+	<key>Ashnah</key><string> change </string>
+	<key>Ashriel</key><string> same as Asareel </string>
+	<key>Ashtaroth</key><string> Ashtoreth </string>
+	<key>Ashur</key><string> who is happy; or walks; or looks </string>
+	<key>Asia</key><string> muddy; boggy </string>
+	<key>Askelon</key><string> weight; balance; fire of infamy </string>
+	<key>Asnapper</key><string> unhappiness; increase of danger </string>
+	<key>Assos</key><string> approaching; coming near </string>
+	<key>Assur</key><string> same as Ashur </string>
+	<key>Assyria</key><string> country of Assur or Ashur </string>
+	<key>Asuppim</key><string> gatherings </string>
+	<key>Asyncritus</key><string> incomparable </string>
+	<key>Atad</key><string> a thorn </string>
+	<key>Ater</key><string> left hand; shut </string>
+	<key>Athach</key><string> thy time </string>
+	<key>Athaiah</key><string> the Lord's time </string>
+	<key>Attalia</key><string> that increases or sends </string>
+	<key>Augustus</key><string> increased </string>
+	<key>Ava</key><string> or Ivah </string>
+	<key>Aven</key><string> iniquity; force; riches; sorrow </string>
+	<key>Avim</key><string> wicked or perverse men </string>
+	<key>Azekah</key><string> strength of walls </string>
+	<key>Azor</key><string> a helper; a court </string>
+	<key>Azotus</key><string> the same as Ashdod </string>
+	<key>Azur</key><string> he that assists or is assisted </string>
+	<key>Baale</key><string> same as Baalath </string>
+	<key>Baali</key><string> my idol; lord over me </string>
+	<key>Baalim</key><string> idols; masters; false gods </string>
+	<key>Baanah</key><string> in the answer; in affliction </string>
+	<key>Baasha</key><string> he that seeks </string>
+	<key>Babylon</key><string> same as Babel </string>
+	<key>Baca</key><string> a mulberry-tree </string>
+	<key>Bajith</key><string> a house </string>
+	<key>Bamah</key><string> an eminence or high place </string>
+	<key>Barachias</key><string> same as Barachel </string>
+	<key>Barjesus</key><string> son of Jesus or Joshua </string>
+	<key>Barsabas</key><string> son of return; son of rest </string>
+	<key>Bartimeus</key><string> son of the honorable </string>
+	<key>Barzillai</key><string> son of contempt; made of iron </string>
+	<key>Bashan</key><string> in the tooth </string>
+	<key>Bashemath</key><string> perfumed; confusion of death; in desolation </string>
+	<key>Bathsuha</key><string> same as Bathsheba </string>
+	<key>Bechorath</key><string> first fruits </string>
+	<key>Bedad</key><string> alone; solitary </string>
+	<key>Bedaiah</key><string> Bedeiah </string>
+	<key>Bedan</key><string> according to judgment </string>
+	<key>Beeliada</key><string> an open idol </string>
+	<key>Beerelim</key><string> the well of Elim </string>
+	<key>Behemoth</key><string> beasts </string>
+	<key>Bekah</key><string> half a shekel </string>
+	<key>Belah</key><string> destroying </string>
+	<key>Belshazzar</key><string> master of the treasure </string>
+	<key>Belteshazzar</key><string> who lays up treasures in secret </string>
+	<key>Beneberak</key><string> sons of lightning </string>
+	<key>Benhadad</key><string> son of Hadad </string>
+	<key>Benhail</key><string> son of strength </string>
+	<key>Benhanan</key><string> son of grace </string>
+	<key>Benimi</key><string> our sons </string>
+	<key>Benoni</key><string> son of my sorrow </string>
+	<key>Benzoheth</key><string> son of separation </string>
+	<key>Beon</key><string> in affliction </string>
+	<key>Berachah</key><string> blessing; bending the knee </string>
+	<key>Berachiah</key><string> speaking well of the Lord </string>
+	<key>Berea</key><string> heavy; weighty </string>
+	<key>Bered</key><string> hail </string>
+	<key>Beri</key><string> my son; my corn </string>
+	<key>Berith</key><string> covenant </string>
+	<key>Berothath</key><string> of a well </string>
+	<key>Besai</key><string> a despising; dirty </string>
+	<key>Besodeiah</key><string> counsel of the Lord </string>
+	<key>Besor</key><string> glad news; incarnation </string>
+	<key>Beten</key><string> belly </string>
+	<key>Bethabara</key><string> the house of confidence </string>
+	<key>Bethanath</key><string> house of affliction </string>
+	<key>Betharabah</key><string> house of sweet smell </string>
+	<key>Bethemek</key><string> house of deepness </string>
+	<key>Bether</key><string> division </string>
+	<key>Bethshan</key><string> Beth-shean </string>
+	<key>Betonim</key><string> bellies </string>
+	<key>Bezai</key><string> eggs </string>
+	<key>Bezaleel</key><string> in the shadow of God </string>
+	<key>Bigvai</key><string> in my body </string>
+	<key>Bilgah</key><string> ancient countenance </string>
+	<key>Bilshan</key><string> in the tongue </string>
+	<key>Binea</key><string> son of the Lord </string>
+	<key>Bithron</key><string> divisions </string>
+	<key>Bithynia</key><string> violent precipitation </string>
+	<key>Bochim</key><string> the place of weeping; or of mulberry-trees </string>
+	<key>Bohan</key><string> in them </string>
+	<key>Boskath</key><string> in poverty </string>
+	<key>Boson</key><string> taking away </string>
+	<key>Bozez</key><string> mud; bog </string>
+	<key>Bukki</key><string> void </string>
+	<key>Bukkiah</key><string> the dissipation of the Lord </string>
+	<key>Cabul</key><string> displeasing; dirty </string>
+	<key>Caiphas</key><string> he that seeks with diligence; one that vomiteth </string>
+	<key>Calno</key><string> our consummation; altogether himself </string>
+	<key>Calvary</key><string> the place of a skull </string>
+	<key>Camon</key><string> his resurrection </string>
+	<key>Cappadocia</key><string> the same as Caphtor </string>
+	<key>Carcas</key><string> the covering of a lamb </string>
+	<key>Careah</key><string> bald; ice </string>
+	<key>Carshena</key><string> a lamb; sleeping </string>
+	<key>Casiphia</key><string> money; covetousness </string>
+	<key>Cedron</key><string> black; sad </string>
+	<key>Cenchrea</key><string> millet; small pulse </string>
+	<key>Cephas</key><string> a rock or stone </string>
+	<key>Cesar</key><string> a name applied to those who are cut out of the womb </string>
+	<key>Chalcol</key><string> who nourishes </string>
+	<key>Chaldea</key><string> as demons </string>
+	<key>Charchemish</key><string> a lamb; as taken away; withdrawn </string>
+	<key>Charran</key><string> a singing or calling out </string>
+	<key>Chedorlaomer</key><string> roundness of a sheaf </string>
+	<key>Chelluh</key><string> all </string>
+	<key>Chemarims</key><string> black ones </string>
+	<key>Cheran</key><string> anger </string>
+	<key>Cherith</key><string> cutting; piercing; slaying </string>
+	<key>Chidon</key><string> a dart </string>
+	<key>Chiliab</key><string> totality; or the perfection of the father </string>
+	<key>Chilmad</key><string> teaching or learning </string>
+	<key>Chimham</key><string> as they; like to them </string>
+	<key>Chios</key><string> open; opening </string>
+	<key>Chisleu</key><string> Cisleu </string>
+	<key>Chittem</key><string> those that bruise; gold </string>
+	<key>Chorazin</key><string> the secret; here is a mystery </string>
+	<key>Chozeba</key><string> men liers in wait </string>
+	<key>Chun</key><string> making ready </string>
+	<key>Chuza</key><string> the seer or prophet </string>
+	<key>Cilicia</key><string> which rolls or overturns </string>
+	<key>Cis</key><string> same as Kish </string>
+	<key>Cleophas</key><string> the whole glory </string>
+	<key>Cnidus</key><string> age </string>
+	<key>Colhozeh</key><string> every prophet </string>
+	<key>Colosse</key><string> punishment; correction </string>
+	<key>Coniah</key><string> strength of the Lord </string>
+	<key>Coos</key><string> top </string>
+	<key>Corinth</key><string> which is satisfied; ornament; beauty </string>
+	<key>Cosam</key><string> divining </string>
+	<key>Coz</key><string> a thorn </string>
+	<key>Crescens</key><string> growing; increasing </string>
+	<key>Crete</key><string> carnal; fleshly </string>
+	<key>Crispus</key><string> curled </string>
+	<key>Cuth</key><string> Cuthah </string>
+	<key>Cyprus</key><string> fair; fairness </string>
+	<key>Cyrenius</key><string> who governs </string>
+	<key>Cyrus</key><string> as miserable; as heir </string>
+	<key>Dabareh</key><string> the word; the thing; a bee; obedient </string>
+	<key>Dabbasheth</key><string> flowing with honey </string>
+	<key>Dalaiah</key><string> the poor of the Lord </string>
+	<key>Dalmanutha</key><string> a bucket; a branch </string>
+	<key>Damascus</key><string> a sack full of blood; the similitude of burning </string>
+	<key>Dannah</key><string> judging </string>
+	<key>Darda</key><string> home of knowledge </string>
+	<key>Darius</key><string> he that informs himself </string>
+	<key>Darkon</key><string> of generation; of possession </string>
+	<key>David</key><string> well-beloved </string>
+	<key>Dedanim</key><string> the descendants of Dedan </string>
+	<key>Dekar</key><string> force </string>
+	<key>Deuteronomy</key><string> repetition of the law </string>
+	<key>Diblath</key><string> paste of dry figs </string>
+	<key>Dibon</key><string> abundance of knowledge </string>
+	<key>Didymus</key><string> a twin; double </string>
+	<key>Dilean</key><string> that is poor </string>
+	<key>Dimon</key><string> where it is red </string>
+	<key>Dimonah</key><string> dunghill </string>
+	<key>Dinhabah</key><string> he gives judgment </string>
+	<key>Dishan</key><string> a threshing </string>
+	<key>Dishon</key><string> fatness; ashes </string>
+	<key>Dodavah</key><string> love </string>
+	<key>Doeg</key><string> careful </string>
+	<key>Dophkah</key><string> a knocking </string>
+	<key>Dura</key><string> same as Dor </string>
+	<key>Ebiasaph</key><string> a father that gathers or adds </string>
+	<key>Ebronah</key><string> passage over; being angry </string>
+	<key>Ecclesiastes</key><string> a preacher </string>
+	<key>Ed</key><string> witness </string>
+	<key>Edrei</key><string> a very great mass </string>
+	<key>Eglaim</key><string> drops of the sea </string>
+	<key>Egypt</key><string> that troubles or oppresses; anguish </string>
+	<key>Eladah</key><string> the eternity of God </string>
+	<key>Elasah</key><string> the doings of God </string>
+	<key>Eleph</key><string> learning </string>
+	<key>Eliah</key><string> God the Lord </string>
+	<key>Elias</key><string> same as Elijah </string>
+	<key>Eliphalet</key><string> the God of deliverance </string>
+	<key>Elmodam</key><string> the God of measure </string>
+	<key>Elpalet</key><string> same as Eliphalet </string>
+	<key>Eltekeh</key><string> of grace or mercy </string>
+	<key>Elul</key><string> cry or outcry </string>
+	<key>Elzaphan</key><string> God of the northeast wind </string>
+	<key>Emims</key><string> fears; terrors; formidable; people </string>
+	<key>Emmanuel</key><string> God with us </string>
+	<key>Emmor</key><string> an ass </string>
+	<key>Eneas</key><string> laudable </string>
+	<key>Enon</key><string> cloud; mass of darkness; fountain; eye </string>
+	<key>Enos</key><string> mortal man; sick; despaired of; forgetful </string>
+	<key>Epenetus</key><string> laudable; worthy of praise </string>
+	<key>Ephphatha</key><string> be opened </string>
+	<key>Ephratah</key><string> Ephrath </string>
+	<key>Epicurean</key><string> follower of Epicurus </string>
+	<key>Esaias</key><string> same as Isaiah </string>
+	<key>Esek</key><string> contention </string>
+	<key>Eshcol</key><string> bunch of grapes </string>
+	<key>Eshean</key><string> held up </string>
+	<key>Eshek</key><string> violence </string>
+	<key>Eshkalon</key><string> same as Askelon </string>
+	<key>Eshtaol</key><string> a strong woman </string>
+	<key>Eshtemoa</key><string> the bosom of a woman </string>
+	<key>Esmachiah</key><string> joined to the Lord </string>
+	<key>Esrom</key><string> dart of joy; division of a song </string>
+	<key>Etam</key><string> their bird </string>
+	<key>Etham</key><string> their strength; their sign </string>
+	<key>Ethanim</key><string> strong; valiant </string>
+	<key>Ethnan</key><string> gift </string>
+	<key>Ethni</key><string> strong </string>
+	<key>Euodias</key><string> sweet scent </string>
+	<key>Ezbon</key><string> hastening to understand </string>
+	<key>Ezel</key><string> going abroad; walk </string>
+	<key>Gaash</key><string> tempest; commotion </string>
+	<key>Gadarenes</key><string> men of Gadara </string>
+	<key>Gaddi</key><string> my troop; a kid </string>
+	<key>Gammadims</key><string> dwarfs </string>
+	<key>Gareb</key><string> a scab </string>
+	<key>Garmites</key><string> men of Garmi </string>
+	<key>Gatam</key><string> their lowing; their touch </string>
+	<key>Gazabar</key><string> a treasurer </string>
+	<key>Gazer</key><string> a dividing; a sentence </string>
+	<key>Gazez</key><string> a passing over </string>
+	<key>Gazzam</key><string> the fleece of them </string>
+	<key>Geba</key><string> a hill; cup </string>
+	<key>Gebal</key><string> bound; limit </string>
+	<key>Gennesaret</key><string> garden of the prince </string>
+	<key>Genubath</key><string> theft; robbery </string>
+	<key>Gera</key><string> pilgrimage </string>
+	<key>Gergesenes</key><string> those who come from pilgrimage or fight </string>
+	<key>Gerizim</key><string> cutters </string>
+	<key>Geshur</key><string> Geshuri </string>
+	<key>Geuel</key><string> God's redemption </string>
+	<key>Gezer</key><string> dividing </string>
+	<key>Gilboa</key><string> revolution of inquiry </string>
+	<key>Gimzo</key><string> that bulrush </string>
+	<key>Gispa</key><string> coming hither </string>
+	<key>Gittites</key><string> men of Gath </string>
+	<key>Goath</key><string> his touching; his roaring </string>
+	<key>Golan</key><string> passage; revolution </string>
+	<key>Goshen</key><string> approaching; drawing near </string>
+	<key>Gozan</key><string> fleece; pasture; who nourisheth the body </string>
+	<key>Gudgodah</key><string> happiness </string>
+	<key>Habakkuk</key><string> he that embraces; a wrestler </string>
+	<key>Hachaliah</key><string> who waits for the Lord </string>
+	<key>Hachilah</key><string> my hope is in her </string>
+	<key>Hadlai</key><string> loitering; hindering </string>
+	<key>Hadrach</key><string> point; joy of tenderness </string>
+	<key>Hagab</key><string> Hagabah </string>
+	<key>Haggeri</key><string> Haggi </string>
+	<key>Hakkoz</key><string> a thorn; summer; an end </string>
+	<key>Hakupha</key><string> a commandment of the mouth </string>
+	<key>Halah</key><string> a moist table </string>
+	<key>Hallelujah</key><string> praise the Lord </string>
+	<key>Hammedatha</key><string> he that troubles the law </string>
+	<key>Hammelech</key><string> a king; a counselor </string>
+	<key>Hamul</key><string> godly; merciful </string>
+	<key>Hanameel</key><string> the grace that comes from God; gift of God </string>
+	<key>Hananeel</key><string> grace </string>
+	<key>Hanes</key><string> banishment of grace </string>
+	<key>Haniel</key><string> the gift of God </string>
+	<key>Harbonah</key><string> his destruction; his sword </string>
+	<key>Harhaiah</key><string> heat </string>
+	<key>Harhas</key><string> anger; heat of confidence </string>
+	<key>Harnepher</key><string> the anger of a bull; increasing heat </string>
+	<key>Harran</key><string> see Charran </string>
+	<key>Harum</key><string> high; throwing down </string>
+	<key>Harumaph</key><string> destruction </string>
+	<key>Haruz</key><string> careful </string>
+	<key>Hashabiah</key><string> the estimation of the Lord </string>
+	<key>Hashabnah</key><string> Hashabniah </string>
+	<key>Hashem</key><string> named; a putting to </string>
+	<key>Hashub</key><string> esteemed; numbered </string>
+	<key>Hashubah</key><string> estimation; thought </string>
+	<key>Hashum</key><string> silence; their hasting </string>
+	<key>Hashupha</key><string> spent; made base </string>
+	<key>Hasrah</key><string> wanting </string>
+	<key>Hatach</key><string> he that strikes </string>
+	<key>Hatita</key><string> a bending of sin </string>
+	<key>Hattush</key><string> forsaking sin </string>
+	<key>Hauran</key><string> a hole; liberty; whiteness </string>
+	<key>Hazarmaveth</key><string> dwelling of death </string>
+	<key>Hazeroth</key><string> villages; palaces </string>
+	<key>Hebrews</key><string> descendants of Heber </string>
+	<key>Hegai</key><string> or Hege </string>
+	<key>Helbah</key><string> Helbon </string>
+	<key>Heleph</key><string> changing; passing over </string>
+	<key>Helez</key><string> armed; set free </string>
+	<key>Heli</key><string> ascending; climbing up </string>
+	<key>Hena</key><string> troubling </string>
+	<key>Henoch</key><string> same as Enoch </string>
+	<key>Heshbon</key><string> invention; industry </string>
+	<key>Heshmon</key><string> a hasty messenger </string>
+	<key>Hethlon</key><string> a fearful dwelling </string>
+	<key>Hezer</key><string> Hezir </string>
+	<key>Hezrai</key><string> an entry or vestibule </string>
+	<key>Hiddai</key><string> a praise; a cry </string>
+	<key>Higgaion</key><string> meditation; consideration </string>
+	<key>Hinnom</key><string> there they are; their riches </string>
+	<key>Hirah</key><string> liberty; anger </string>
+	<key>Hivites</key><string> wicked; wickedness </string>
+	<key>Hizkijah</key><string> the strength of the Lord </string>
+	<key>Hobab</key><string> favored; beloved </string>
+	<key>Hodaiah</key><string> the praise of the Lord </string>
+	<key>Hoham</key><string> woe to them </string>
+	<key>Homam</key><string> making an uproar </string>
+	<key>Hophin</key><string> he that covers; my fist </string>
+	<key>Hori</key><string> a prince; freeborn </string>
+	<key>Horims</key><string> princes; being angry </string>
+	<key>Horonaim</key><string> angers; ragings </string>
+	<key>Horonites</key><string> men of anger </string>
+	<key>Hoshama</key><string> heard; he obeys </string>
+	<key>Hotham</key><string> a seal </string>
+	<key>Hukkok</key><string> engraver; scribe; lawyer </string>
+	<key>Huram</key><string> their liberty; their whiteness; their hole </string>
+	<key>Huri</key><string> being angry; or same as Huram </string>
+	<key>Hushathite</key><string> Hushim </string>
+	<key>Huz</key><string> counsel; woods; fastened </string>
+	<key>Huzoth</key><string> streets; populous </string>
+	<key>Huzzab</key><string> molten </string>
+	<key>Hymeneus</key><string> nuptial; the god of marriage </string>
+	<key>Ibzan</key><string> father of a target; father of coldness </string>
+	<key>Idalah</key><string> the hand of slander </string>
+	<key>Idbash</key><string> flowing with honey; the land of destruction </string>
+	<key>Idumea</key><string> red; earthy; bloody </string>
+	<key>Igal</key><string> redeemed; defiled </string>
+	<key>Igeal</key><string> a redeemer; redeemed; defiled </string>
+	<key>Ikkesh</key><string> forward; wicked </string>
+	<key>Imlah</key><string> plentitude; circumcision </string>
+	<key>Imri</key><string> speaking; exalting; bitter; a lamb </string>
+	<key>India</key><string> praise; law </string>
+	<key>Iphedeiah</key><string> redemption of the Lord </string>
+	<key>Iram</key><string> the effusion of them; a high heap </string>
+	<key>Iri</key><string> fire; light </string>
+	<key>Irpeel</key><string> the health </string>
+	<key>Ishbosheth</key><string> a man of shame </string>
+	<key>Ishiah</key><string> it is the Lord </string>
+	<key>Ishmachiah</key><string> cleaving to the Lord </string>
+	<key>Ishod</key><string> a comely man </string>
+	<key>Ishua</key><string> plainness; equal </string>
+	<key>Ispah</key><string> a jasper stone </string>
+	<key>Isui</key><string> same as Ishuah </string>
+	<key>Ithai</key><string> strong; my sign; a plowshare </string>
+	<key>Ithmah</key><string> an orphan </string>
+	<key>Iturea</key><string> guarded; mountainous </string>
+	<key>Ivah</key><string> iniquity </string>
+	<key>Izehar</key><string> Izhar </string>
+	<key>Jaalam</key><string> hidden; young man; heir </string>
+	<key>Jaanai</key><string> answering; afflicting; making poor </string>
+	<key>Jaasau</key><string> doing; my doing </string>
+	<key>Jaazah</key><string> Jaazar </string>
+	<key>Jachan</key><string> wearing out; oppressing </string>
+	<key>Jadau</key><string> his hand; his confession </string>
+	<key>Jah</key><string> the everlasting </string>
+	<key>Jahaleel</key><string> praising God; light of God </string>
+	<key>Jahaz</key><string> Jahazah </string>
+	<key>Jahaziah</key><string> the vision of the Lord </string>
+	<key>Jakan</key><string> same as Achan </string>
+	<key>Janna</key><string> Jannes </string>
+	<key>Janum</key><string> sleeping </string>
+	<key>Japhet</key><string> enlarged; fair; persuading </string>
+	<key>Japho</key><string> fairness; comeliness </string>
+	<key>Jaresiah</key><string> the bed of the Lord; the Lord hath taken away; poverty </string>
+	<key>Jarvah</key><string> breathing </string>
+	<key>Jashem</key><string> Jashen </string>
+	<key>Jasher</key><string> righteous; upright </string>
+	<key>Jasiel</key><string> the strength of God </string>
+	<key>Jason</key><string> he that cures </string>
+	<key>Jazeel</key><string> strength of God </string>
+	<key>Jeaterai</key><string> searching out </string>
+	<key>Jebusi</key><string> trodden under foot; mangers </string>
+	<key>Jecamiah</key><string> resurrection </string>
+	<key>Jeconiah</key><string> preparation </string>
+	<key>Jedeiah</key><string> one Lord; the joy of the Lord </string>
+	<key>Jediel</key><string> the knowledge </string>
+	<key>Jeezer</key><string> island of help </string>
+	<key>Jehaleleel</key><string> Jehalelel </string>
+	<key>Jehaziel</key><string> same as Jahaziel </string>
+	<key>Jeheiel</key><string> God liveth </string>
+	<key>Jehezekel</key><string> strength of God </string>
+	<key>Jehiskiah</key><string> the strength </string>
+	<key>Jehoadah</key><string> passing over; testimony of the Lord </string>
+	<key>Jehoash</key><string> fire of the Lord </string>
+	<key>Jehoiarib</key><string> fighting </string>
+	<key>Jehonadab</key><string> Jonadab </string>
+	<key>Jehonathan</key><string> gift of the Lord; gift of a dove </string>
+	<key>Jehoshua</key><string> same as Joshua </string>
+	<key>Jehovah</key><string> self-subsisting </string>
+	<key>Jehud</key><string> Jehudi </string>
+	<key>Jehush</key><string> keeping counsel; fastened </string>
+	<key>Jekabzeel</key><string> the congregation of God </string>
+	<key>Jekamean</key><string> the people shall arise </string>
+	<key>Jemima</key><string> handsome as the day </string>
+	<key>Jemuel</key><string> God's day; son of God </string>
+	<key>Jerebai</key><string> fighting; chiding; multiplying </string>
+	<key>Jered</key><string> ruling; coming down </string>
+	<key>Jerijah</key><string> same as Jeriah </string>
+	<key>Jesaiah</key><string> health </string>
+	<key>Jeshohaia</key><string> the Lord pressing; the meditation of God </string>
+	<key>Jesiah</key><string> sprinkling of the Lord </string>
+	<key>Jesimiel</key><string> naming </string>
+	<key>Jesui</key><string> even-tempered; flat country </string>
+	<key>Jethlah</key><string> hanging up; heaping up </string>
+	<key>Jeuel</key><string> God hath taken away; God heaping up </string>
+	<key>Jeush</key><string> Jeuz </string>
+	<key>Jezaniah</key><string> nourishment </string>
+	<key>Jeziah</key><string> Jeziel </string>
+	<key>Jezoar</key><string> clear; white </string>
+	<key>Jezrahiah</key><string> the Lord arises; brightness of the Lord </string>
+	<key>Jibsam</key><string> their drought </string>
+	<key>Jimnah</key><string> right hand; numbering; preparing </string>
+	<key>Jiphtah</key><string> opening </string>
+	<key>Jiphthael</key><string> God opening </string>
+	<key>Joah</key><string> fraternity; brother of the Lord </string>
+	<key>Joash</key><string> who despairs or burns </string>
+	<key>Joatham</key><string> same as Jotham </string>
+	<key>Joed</key><string> witnessing; robbing; passing over </string>
+	<key>Joelah</key><string> lifting up; profiting; taking away slander </string>
+	<key>Joezer</key><string> he that aids </string>
+	<key>Joha</key><string> who enlivens or gives life </string>
+	<key>Joiarib</key><string> chiding </string>
+	<key>Josabad</key><string> having a dowry </string>
+	<key>Josaphat</key><string> same as Jehoshaphat </string>
+	<key>Joshbekesha</key><string> it is requiring or beseeching </string>
+	<key>Josibiah</key><string> the seat </string>
+	<key>Jotham</key><string> the perfection of the Lord </string>
+	<key>Jothath</key><string> Jothatha </string>
+	<key>Jozachar</key><string> remembering; of the male sex </string>
+	<key>Jucal</key><string> mighty; perfect </string>
+	<key>Judaea</key><string> Judea </string>
+	<key>Jushabhesed</key><string> dwelling-place; change of mercy </string>
+	<key>Juttah</key><string> turning away </string>
+	<key>Kadmiel</key><string> God of antiquity; God of rising </string>
+	<key>Kadmonites</key><string> ancients; chiefs </string>
+	<key>Kanah</key><string> of reeds </string>
+	<key>Karkaa</key><string> floor; dissolving coldness </string>
+	<key>Kedemah</key><string> oriental; ancient; first </string>
+	<key>Kedemoth</key><string> antiquity; old age </string>
+	<key>Kehelahath</key><string> a whole; a congregation </string>
+	<key>Keiiah</key><string> she that divides or cuts </string>
+	<key>Kelaiah</key><string> voice of the Lord; gathering together </string>
+	<key>Kelitah</key><string> same as Kelaiah </string>
+	<key>Kenah</key><string> buying; possession </string>
+	<key>Kenaz</key><string> this purchase; this lamentation </string>
+	<key>Kenites</key><string> possession; purchase; lamentation </string>
+	<key>Kenizzites</key><string> possession; purchase </string>
+	<key>Keros</key><string> crooked; crookedness </string>
+	<key>Kezia</key><string> superficies; the angle; cassia </string>
+	<key>Keziz</key><string> end; extremity </string>
+	<key>Kibzaim</key><string> congregation </string>
+	<key>Kinah</key><string> same as Kenah </string>
+	<key>Kirioth</key><string> same as Kerioth </string>
+	<key>Kirjath</key><string> city; vocation; meeting </string>
+	<key>Kirjathaim</key><string> the two cities; callings; or meetings </string>
+	<key>Kithlish</key><string> it is a wall; the company of a lioness </string>
+	<key>Laadan</key><string> for pleasure; devouring; judgment </string>
+	<key>Labana</key><string> the moon; whiteness; frankincense </string>
+	<key>Lachish</key><string> who walks </string>
+	<key>Lahad</key><string> praising; to confess </string>
+	<key>Lahairoi</key><string> who liveth and seeth me </string>
+	<key>Lahmam</key><string> their bread; their war </string>
+	<key>Lapidoth</key><string> enlightened; lamps </string>
+	<key>Lashah</key><string> to call; to anoint </string>
+	<key>Lebbeus</key><string> a man of heart; praising; confessing </string>
+	<key>Lekah</key><string> walking; going </string>
+	<key>Lemuel</key><string> God with them </string>
+	<key>Leshem</key><string> a name; putting; a precious stone </string>
+	<key>Libya</key><string> the heart of the sea; fat </string>
+	<key>Lod</key><string> nativity; generation </string>
+	<key>Lubin</key><string> heart of a man; heart of the sea </string>
+	<key>Lucas</key><string> Lucius </string>
+	<key>Lucifer</key><string> bringing light </string>
+	<key>Luhith</key><string> made of boards </string>
+	<key>Lydda</key><string> Lydia </string>
+	<key>Lysimachus</key><string> scattering the battle </string>
+	<key>Maachah</key><string> pressed down; worn; fastened </string>
+	<key>Maachathi</key><string> broken </string>
+	<key>Maadai</key><string> pleasant; testifying </string>
+	<key>Maadiah</key><string> pleasantness; the testimony of the Lord </string>
+	<key>Maai</key><string> belly; heaping up </string>
+	<key>Maaseiah</key><string> the work of the Lord </string>
+	<key>Maasiai</key><string> the defense </string>
+	<key>Machbenah</key><string> Machbanai </string>
+	<key>Machi</key><string> poor; a smiter </string>
+	<key>Machir</key><string> selling; knowing </string>
+	<key>Machnadebai</key><string> smiter </string>
+	<key>Machpelah</key><string> double </string>
+	<key>Madian</key><string> judgment; striving; covering; chiding </string>
+	<key>Magbish</key><string> excelling; height </string>
+	<key>Magdala</key><string> tower; greatness </string>
+	<key>Magdalene</key><string> a person from Magdala </string>
+	<key>Magdiel</key><string> declaring God; chosen fruit of God </string>
+	<key>Magog</key><string> covering; roof; dissolving </string>
+	<key>Mahalah</key><string> Mahalath </string>
+	<key>Mahaleleel</key><string> praising God </string>
+	<key>Mahali</key><string> infirmity; a harp; pardon </string>
+	<key>Mahanehdan</key><string> tents of judgment </string>
+	<key>Mahanem</key><string> a comforter </string>
+	<key>Mahavites</key><string> declaring a message; marrow </string>
+	<key>Mahaz</key><string> an end; ending; growing hope </string>
+	<key>Mahlah</key><string> Mahli </string>
+	<key>Makas</key><string> same as Mahaz </string>
+	<key>Makkedah</key><string> worshiping; burning; raised; crookedness </string>
+	<key>Malachi</key><string> my messenger; my angel </string>
+	<key>Malcham</key><string> Malchom </string>
+	<key>Maleleel</key><string> same as Mahaleleel </string>
+	<key>Mammon</key><string> riches </string>
+	<key>Manahethites</key><string> my lady; my prince of rest </string>
+	<key>Maranatha</key><string> the Lord is coming </string>
+	<key>Maroth</key><string> bitterness </string>
+	<key>Marsena</key><string> bitterness of a bramble </string>
+	<key>Mashal</key><string> a parable; governing </string>
+	<key>Masrekah</key><string> whistling; hissing </string>
+	<key>Matri</key><string> rain; prison </string>
+	<key>Matthal</key><string> gift; he that gives </string>
+	<key>Matthanias</key><string> same as Mattaniah </string>
+	<key>Mazzaroth</key><string> the twelve signs of the zodiac </string>
+	<key>Mearah</key><string> den; cave; making empty </string>
+	<key>Mecherath</key><string> selling; knowledge </string>
+	<key>Medeba</key><string> waters of grief; waters springing up </string>
+	<key>Media</key><string> measure; habit; covering </string>
+	<key>Megiddon</key><string> same as Megiddo </string>
+	<key>Mehida</key><string> a riddle; sharpness of wit </string>
+	<key>Mehir</key><string> a reward </string>
+	<key>Mejarkon</key><string> the waters of Jordan </string>
+	<key>Mekonah</key><string> a foot of a pillar; provision </string>
+	<key>Melatiah</key><string> deliverance of the Lord </string>
+	<key>Melchiah</key><string> God is my king </string>
+	<key>Melita</key><string> affording honey </string>
+	<key>Mellicu</key><string> his kingdom; his counselor </string>
+	<key>Melzar</key><string> circumcision of a narrow place </string>
+	<key>Memphis</key><string> abode of the good </string>
+	<key>Memucan</key><string> impoverished; to prepare; certain; true </string>
+	<key>Menan</key><string> numbered; rewarded; prepared </string>
+	<key>Mene</key><string> who reckons or is counted </string>
+	<key>Meres</key><string> defluxion; imposthume </string>
+	<key>Merodach</key><string> bitter contrition </string>
+	<key>Merom</key><string> eminences; elevations </string>
+	<key>Meronothite</key><string> my singing; rejoicing; bearing rule </string>
+	<key>Meshach</key><string> that draws with force </string>
+	<key>Meshech</key><string> who is drawn by force </string>
+	<key>Meshezaheel</key><string> God taking away; the salvation of God </string>
+	<key>Meshillamith</key><string> peaceable; perfect; giving again </string>
+	<key>Mesopotamia</key><string> between two rivers </string>
+	<key>Methusael</key><string> who demands his death </string>
+	<key>Meunim</key><string> dwelling-places; afflicted </string>
+	<key>Miamin</key><string> the right hand </string>
+	<key>Micaiah</key><string> who is like to God? </string>
+	<key>Micha</key><string> same as Micaiah </string>
+	<key>Michmethah</key><string> the gift or death of a striker </string>
+	<key>Michri</key><string> selling </string>
+	<key>Michtam</key><string> golden psalm </string>
+	<key>Middin</key><string> judgment; striving </string>
+	<key>Migron</key><string> fear; farm; throat </string>
+	<key>Mikloth</key><string> little wants; little voices; looking downward </string>
+	<key>Miletum</key><string> red; scarlet </string>
+	<key>Minneiah</key><string> possession of the Lord </string>
+	<key>Mishael</key><string> who is asked for or lent </string>
+	<key>Mishal</key><string> parables; governing </string>
+	<key>Misham</key><string> their savior; taking away </string>
+	<key>Misheal</key><string> requiring; lent; pit </string>
+	<key>Mishraites</key><string> spread abroad </string>
+	<key>Mithcah</key><string> sweetness; pleasantness </string>
+	<key>Mithnite</key><string> loin; gift; hope </string>
+	<key>Mithredath</key><string> breaking the law </string>
+	<key>Mizzah</key><string> defluxion from the head </string>
+	<key>Mozah</key><string> unleavened </string>
+	<key>Muppim</key><string> out of the mouth; covering </string>
+	<key>Naashon</key><string> that foretells; that conjectures </string>
+	<key>Nabal</key><string> fool; senseless </string>
+	<key>Naboth</key><string> words; prophecies </string>
+	<key>Nachon</key><string> ready; sure </string>
+	<key>Nachor</key><string> same as Nahor </string>
+	<key>Nagge</key><string> clearness; brightness; light </string>
+	<key>Nahaliel</key><string> inheritance; valley of God </string>
+	<key>Nahallal</key><string> praised; bright </string>
+	<key>Nahath</key><string> rest; a leader </string>
+	<key>Nason</key><string> helper; entry-way </string>
+	<key>Naum</key><string> same as Nahum </string>
+	<key>Nazarite</key><string> one chosen or set apart </string>
+	<key>Nebai</key><string> budding; speaking; prophesying </string>
+	<key>Neballat</key><string> prophecy; budding </string>
+	<key>Necho</key><string> lame; beaten </string>
+	<key>Neginoth</key><string> stringed instruments </string>
+	<key>Nehelamite</key><string> dreamer; vale; brook </string>
+	<key>Neiel</key><string> commotion </string>
+	<key>Nekoda</key><string> painted; inconstant </string>
+	<key>Nemuel</key><string> the sleeping of God </string>
+	<key>Nepheg</key><string> weak; slacked </string>
+	<key>Nephish</key><string> same as Naphish </string>
+	<key>Nephishesim</key><string> diminished; torn in pieces </string>
+	<key>Nephthalim</key><string> same as Naphtali </string>
+	<key>Nephthoah</key><string> opening; open </string>
+	<key>Nephusim</key><string> same as Nephishesim </string>
+	<key>Nergal</key><string> the great man; the hero </string>
+	<key>Nethaneel</key><string> same as Nathanael </string>
+	<key>Nethinims</key><string> given or offered </string>
+	<key>Neziah</key><string> conqueror; strong </string>
+	<key>Nezib</key><string> standing-place </string>
+	<key>Nibshan</key><string> prophecy; growing of a tooth </string>
+	<key>Nicolaitanes</key><string> followers of Nicolas </string>
+	<key>Nimshi</key><string> rescued from danger </string>
+	<key>Nisan</key><string> standard; miracle </string>
+	<key>Nisroch</key><string> flight; proof; temptation; delicate </string>
+	<key>No</key><string> stirring up; forbidding </string>
+	<key>Noe</key><string> same as Noah </string>
+	<key>Noha</key><string> rest; a guide </string>
+	<key>Non</key><string> posterity; a fish; eternal </string>
+	<key>Noph</key><string> honeycomb; anything that distills or drops </string>
+	<key>Nymphas</key><string> spouse; bridegroom </string>
+	<key>Oboth</key><string> dragons; fathers; desires </string>
+	<key>Ocran</key><string> a disturber; that disorders </string>
+	<key>Og</key><string> a cake; bread baked in ashes </string>
+	<key>Ohel</key><string> tent; tabernacle; brightness </string>
+	<key>Omega</key><string> the last letter of the Greek alphabet; long O </string>
+	<key>Ophel</key><string> a tower; darkness; small white cloud </string>
+	<key>Ophni</key><string> wearisomeness; folding together </string>
+	<key>Ophrah</key><string> dust; lead; a fawn </string>
+	<key>Oreb</key><string> a raven </string>
+	<key>Oshea</key><string> same as Joshua </string>
+	<key>Othni</key><string> my time; my hour </string>
+	<key>Othniel</key><string> the hour of God </string>
+	<key>Ozias</key><string> strength from the Lord </string>
+	<key>Padon</key><string> his redemption; ox-yoke </string>
+	<key>Pagiel</key><string> prevention </string>
+	<key>Pai</key><string> Pau </string>
+	<key>Palestina</key><string> which is covered; watered; or brings and causes ruin </string>
+	<key>Parbar</key><string> a suburb </string>
+	<key>Parmashta</key><string> a yearling bull </string>
+	<key>Parnach</key><string> a bull striking </string>
+	<key>Parosh</key><string> a flea; the fruit of a moth </string>
+	<key>Paruah</key><string> flourishing; that flies away </string>
+	<key>Pasach</key><string> thy broken piece </string>
+	<key>Pasdammin</key><string> portion or diminishing of blood </string>
+	<key>Pashur</key><string> that extends or multiplies the hole; whiteness </string>
+	<key>Patara</key><string> trodden under foot </string>
+	<key>Patmos</key><string> mortal </string>
+	<key>Pau</key><string> same as Pai </string>
+	<key>Paulus</key><string> same as Paul </string>
+	<key>Pedahzur</key><string> strong or powerful savior; stone of redemption </string>
+	<key>Pedaiah</key><string> redemption of the Lord </string>
+	<key>Pekah</key><string> he that opens; that is at liberty </string>
+	<key>Pekahiah</key><string> it is the Lord that opens </string>
+	<key>Pekod</key><string> noble; rulers </string>
+	<key>Pelethites</key><string> judges; destroyers </string>
+	<key>Pentapolis</key><string> five cities </string>
+	<key>Pentateuch</key><string> the five books of Moses </string>
+	<key>Perazim</key><string> divisions </string>
+	<key>Pergamos</key><string> height; elevation </string>
+	<key>Perida</key><string> separation; division </string>
+	<key>Perizzites</key><string> dwelling in villages </string>
+	<key>Peruda</key><string> same as Perida </string>
+	<key>Peulthai</key><string> my works </string>
+	<key>Phalec</key><string> same as Peleg </string>
+	<key>Phallu</key><string> Pallu </string>
+	<key>Pharaoh</key><string> that disperses; that spoils </string>
+	<key>Pharez</key><string> division; rupture </string>
+	<key>Pharpar</key><string> that produces fruit </string>
+	<key>Phebe</key><string> shining; pure </string>
+	<key>Phenice</key><string> Phoenicia </string>
+	<key>Phichol</key><string> the mouth of all </string>
+	<key>Philistines</key><string> those who dwell in villages </string>
+	<key>Phurah</key><string> that bears fruit </string>
+	<key>Phygellus</key><string> fugitive </string>
+	<key>Phylacteries</key><string> things to be especially observed </string>
+	<key>Pilate</key><string> armed with a dart </string>
+	<key>Pinon</key><string> pearl; gem; that beholds </string>
+	<key>Pirathon</key><string> his dissipation or deprivation; his rupture </string>
+	<key>Pisgah</key><string> hill; eminence; fortress </string>
+	<key>Pisidia</key><string> pitch; pitchy </string>
+	<key>Pison</key><string> changing; extension of the mouth </string>
+	<key>Pithom</key><string> their mouthful; a dilatation of the mouth </string>
+	<key>Pithon</key><string> mouthful; persuasion </string>
+	<key>Pochereth</key><string> cutting of the mouth of warfare </string>
+	<key>Poratha</key><string> fruitful </string>
+	<key>Potipherah</key><string> that scatters abroad </string>
+	<key>Punites</key><string> beholding; my face </string>
+	<key>Punon</key><string> precious stone; that beholds </string>
+	<key>Pur</key><string> Purim </string>
+	<key>Putiel</key><string> God is my fatness </string>
+	<key>Rabbi</key><string> Rabboni </string>
+	<key>Rabmag</key><string> who overthrows or destroys a multitude </string>
+	<key>Raca</key><string> worthless; good-for-nothing </string>
+	<key>Rachab</key><string> same as Rahab </string>
+	<key>Rachal</key><string> to whisper; an embalmer </string>
+	<key>Ragau</key><string> friend; shepherd </string>
+	<key>Raguel</key><string> shepherd </string>
+	<key>Ramath</key><string> Ramatha </string>
+	<key>Raphah</key><string> Raphu </string>
+	<key>Rehoboth</key><string> spaces; places </string>
+	<key>Rehpaim</key><string> giants; physicians; relaxed </string>
+	<key>Rei</key><string> my shepherd; my companion; my friend </string>
+	<key>Rekem</key><string> vain pictures; divers picture </string>
+	<key>Remaliah</key><string> the exaltation of the Lord </string>
+	<key>Remmon</key><string> greatness; elevation; a pomegranate-tree </string>
+	<key>Remphan</key><string> prepared; arrayed </string>
+	<key>Rephael</key><string> the physic or medicine of God </string>
+	<key>Rezeph</key><string> pavement; burning coal </string>
+	<key>Rezin</key><string> good-will; messenger </string>
+	<key>Rezon</key><string> lean; small; secret; prince </string>
+	<key>Rhodes</key><string> same as Rhoda </string>
+	<key>Riblah</key><string> quarrel; greatness to him </string>
+	<key>Rissah</key><string> watering; distillation; dew </string>
+	<key>Rithmah</key><string> juniper; noise </string>
+	<key>Rohgah</key><string> filled or drunk with talk </string>
+	<key>Roman</key><string> strong; powerful </string>
+	<key>Rome</key><string> strength; power </string>
+	<key>Sabeans</key><string> captivity; conversion; old age </string>
+	<key>Sabtechah</key><string> that surrounds; that causes wounding </string>
+	<key>Sadoc</key><string> or Zadok </string>
+	<key>Salah</key><string> mission; sending </string>
+	<key>Salamis</key><string> shaken; test; beaten </string>
+	<key>Salathiel</key><string> asked or lent of God </string>
+	<key>Salcah</key><string> thy basket; thy lifting up </string>
+	<key>Salim</key><string> foxes; fists; path </string>
+	<key>Sallai</key><string> Sallu </string>
+	<key>Samos</key><string> full of gravel </string>
+	<key>Samothracia</key><string> an island possessed by the Samians and Thracians </string>
+	<key>Sanballat</key><string> bramble-bush; enemy in secret </string>
+	<key>Sanhedrin</key><string> sitting together </string>
+	<key>Sansannah</key><string> bough or bramble of the enemy </string>
+	<key>Saphir</key><string> delightful </string>
+	<key>Sardis</key><string> prince of joy </string>
+	<key>Sardites</key><string> removing a dissension </string>
+	<key>Sarepta</key><string> a goldsmith's shop </string>
+	<key>Sargon</key><string> who takes away protection </string>
+	<key>Sarid</key><string> remaining; hand of a prince </string>
+	<key>Saron</key><string> same as Sharon </string>
+	<key>Sarsechim</key><string> master of the wardrobe </string>
+	<key>Saruch</key><string> branch; layer; lining </string>
+	<key>Satan</key><string> contrary; adversary; enemy; accuser </string>
+	<key>Sceva</key><string> disposed; prepared </string>
+	<key>Schaaph</key><string> fleeing; thinking </string>
+	<key>Sebat</key><string> twig; scepter; tribe </string>
+	<key>Sechu</key><string> defense; bough </string>
+	<key>Secundus</key><string> second </string>
+	<key>Segub</key><string> fortified; raised </string>
+	<key>Selah</key><string> the end; a pause </string>
+	<key>Seled</key><string> affliction; warning </string>
+	<key>Seleucia</key><string> shaken or beaten by the waves </string>
+	<key>Sem</key><string> same as Shem </string>
+	<key>Semaiah</key><string> obeying the Lord </string>
+	<key>Semei</key><string> hearing; obeying </string>
+	<key>Senaah</key><string> bramble; enemy </string>
+	<key>Senir</key><string> bed-candle; changing </string>
+	<key>Sennacherib</key><string> bramble of destruction </string>
+	<key>Sepharvaim</key><string> the two books; the two scribes </string>
+	<key>Sered</key><string> dyer's vat </string>
+	<key>Sergius</key><string> net </string>
+	<key>Sethur</key><string> hid; destroying </string>
+	<key>Shaalabbim</key><string> understanding </string>
+	<key>Shaalbonite</key><string> a fox's building </string>
+	<key>Shaashgaz</key><string> he that presses the fleece; that shears the sheep </string>
+	<key>Shachia</key><string> protection of the Lord </string>
+	<key>Shadrach</key><string> tender </string>
+	<key>Shage</key><string> touching softly; multiplying much </string>
+	<key>Shalem</key><string> same as Salem </string>
+	<key>Shalim</key><string> same as Salim </string>
+	<key>Shalisha</key><string> three; the third; prince; captain </string>
+	<key>Shalman</key><string> peaceable; perfect; that rewards </string>
+	<key>Shamariah</key><string> throne or keeping of the Lord </string>
+	<key>Shamed</key><string> destroying; wearing out </string>
+	<key>Shamer</key><string> keeper; thorn; dregs </string>
+	<key>Shamgar</key><string> named a stranger; he is here a stranger </string>
+	<key>Shammuah</key><string> he that is heard; he that is obeyed </string>
+	<key>Sharai</key><string> my lord; my prince; my song </string>
+	<key>Sharezer</key><string> overseer of the treasury </string>
+	<key>Shashak</key><string> a bag of linen; the sixth bag </string>
+	<key>Shaul</key><string> Saul </string>
+	<key>Shebam</key><string> compassing about; old men </string>
+	<key>Shebaniah</key><string> the Lord that converts </string>
+	<key>Shebarim</key><string> breakings; hopes </string>
+	<key>Sheber</key><string> breaking; hope </string>
+	<key>Shebna</key><string> who rests himself; who is now captive </string>
+	<key>Shecaniah</key><string> habitation of the Lord </string>
+	<key>Sheminith</key><string> eighth (an eight-stringed instrument) </string>
+	<key>Shemuel</key><string> appointed by God </string>
+	<key>Shenazar</key><string> treasurer of a tooth </string>
+	<key>Shenir</key><string> lantern; light that sleeps </string>
+	<key>Shepho</key><string> desert </string>
+	<key>Sherah</key><string> flesh; relationship </string>
+	<key>Sherebiah</key><string> singing with the Lord </string>
+	<key>Shethar</key><string> putrefied; searching </string>
+	<key>Shibboleth</key><string> Sibboleth </string>
+	<key>Shibmah</key><string> overmuch captivity </string>
+	<key>Shicron</key><string> drunkenness; his gift; his wages </string>
+	<key>Shiggaion</key><string> a song of trouble or comfort </string>
+	<key>Shihon</key><string> sound; wall of strength </string>
+	<key>Shillem</key><string> peace; perfection; retribution </string>
+	<key>Shilom</key><string> tarrying; peace-maker </string>
+	<key>Shimeah</key><string> Shimeath </string>
+	<key>Shimeon</key><string> same as Simeon </string>
+	<key>Shimma</key><string> same as Shimeah </string>
+	<key>Shimon</key><string> providing well; fatness; oil </string>
+	<key>Shinab</key><string> father of changing </string>
+	<key>Shiphi</key><string> multitude </string>
+	<key>Shishak</key><string> present of the bag; of the pot; of the thigh </string>
+	<key>Shitrai</key><string> gatherer of money </string>
+	<key>Shiza</key><string> this gift </string>
+	<key>Shoa</key><string> kings; tyrants </string>
+	<key>Shobach</key><string> your bonds; your chains </string>
+	<key>Shochoh</key><string> defense; a bough </string>
+	<key>Shoham</key><string> keeping back </string>
+	<key>Shophach</key><string> pouring out </string>
+	<key>Shophan</key><string> rabbit; hid </string>
+	<key>Shoshannim</key><string> those that shall be changed </string>
+	<key>Shua</key><string> crying; saving </string>
+	<key>Shubael</key><string> returning captivity; seat of God </string>
+	<key>Shulamite</key><string> peaceable; perfect; that recompenses </string>
+	<key>Shunem</key><string> their change; their sleep </string>
+	<key>Shuni</key><string> changed; sleeping </string>
+	<key>Shuphim</key><string> Shuppim </string>
+	<key>Shushan</key><string> lily; rose; joy </string>
+	<key>Shuthelah</key><string> plant; verdure; moist; pot </string>
+	<key>Sia</key><string> moving; help </string>
+	<key>Sibbechai</key><string> bough; cottage; of springs </string>
+	<key>Sibmah</key><string> conversion; captivity </string>
+	<key>Sichem</key><string> portion; shoulder </string>
+	<key>Sigionoth</key><string> according to variable songs or tunes </string>
+	<key>Sihon</key><string> rooting out; conclusion </string>
+	<key>Sihor</key><string> black; trouble (the river Nile) </string>
+	<key>Silas</key><string> three </string>
+	<key>Siloa</key><string> Siloam </string>
+	<key>Silvanus</key><string> who loves the forest </string>
+	<key>Sin</key><string> bush </string>
+	<key>Sinim</key><string> south country </string>
+	<key>Sinon</key><string> a breast-plate; deliverance </string>
+	<key>Sisamai</key><string> house; blindness </string>
+	<key>Sivan</key><string> a bush or thorn </string>
+	<key>Sodi</key><string> my secret </string>
+	<key>Sopater</key><string> Sosipater </string>
+	<key>Sorek</key><string> vine; hissing; a color inclining to yellow </string>
+	<key>Sosthenes</key><string> savior; strong; powerful </string>
+	<key>Sotai</key><string> conclusion in pleading; binding </string>
+	<key>Spain</key><string> rare; precious </string>
+	<key>Stachys</key><string> spike or ear of corn </string>
+	<key>Stephanas</key><string> crown; crowned </string>
+	<key>Stephen</key><string> same as Stephanas </string>
+	<key>Suah</key><string> speaking; entreating; ditch </string>
+	<key>Sud</key><string> my secret </string>
+	<key>Susanna</key><string> lily; rose; joy </string>
+	<key>Sychar</key><string> end </string>
+	<key>Syene</key><string> a bush; enmity </string>
+	<key>Syracuse</key><string> that draws violently </string>
+	<key>Tabbath</key><string> good; goodness </string>
+	<key>Tabeal</key><string> Tabeel </string>
+	<key>Tabrimon</key><string> good pomegranate; the navel; the middle </string>
+	<key>Tahapenes</key><string> secret temptation </string>
+	<key>Tamah</key><string> blotting or wiping out; smiting </string>
+	<key>Tammuz</key><string> abstruse; concealed; consumed </string>
+	<key>Tarah</key><string> a hair; a wretch; one banished </string>
+	<key>Tarea</key><string> howling; doing evil </string>
+	<key>Tarpelites</key><string> ravishers; succession of miracles </string>
+	<key>Tarsus</key><string> winged; feathered </string>
+	<key>Tatnai</key><string> that gives; the overseer of the gifts and tributes </string>
+	<key>Tebeth</key><string> good </string>
+	<key>Tekel</key><string> weight </string>
+	<key>Telabib</key><string> a heap of new grain </string>
+	<key>Telharsa</key><string> suspension of the plow </string>
+	<key>Teraphim</key><string> images; idols </string>
+	<key>Tetrarch</key><string> governor of a fourth part </string>
+	<key>Thaddeus</key><string> that praises or confesses </string>
+	<key>Thamah</key><string> that blots out; that suppresses </string>
+	<key>Tharah</key><string> same as Terah </string>
+	<key>Thelasar</key><string> same as Telassar </string>
+	<key>Theophilus</key><string> friend of God </string>
+	<key>Thessalonica</key><string> victory against the Thessalians </string>
+	<key>Theudas</key><string> flowing with water </string>
+	<key>Thyatira</key><string> a perfume; sacrifice of labor </string>
+	<key>Tibbath</key><string> killing; a cook </string>
+	<key>Tiberias</key><string> good vision; the navel </string>
+	<key>Tiberius</key><string> the son of Tiber </string>
+	<key>Timeus</key><string> perfect; admirable; honorable </string>
+	<key>Timnath</key><string> image; figure; enumeration </string>
+	<key>Timotheus</key><string> honor of God; valued of God </string>
+	<key>Tirhakah</key><string> inquirer; examiner; dull observer </string>
+	<key>Tirshatha</key><string> a governor </string>
+	<key>Titus</key><string> pleasing </string>
+	<key>Toah</key><string> weapon; dart </string>
+	<key>Tochen</key><string> middle </string>
+	<key>Tohu</key><string> that lives; that declares </string>
+	<key>Toi</key><string> who wanders </string>
+	<key>Tola</key><string> worm; grub; scarlet </string>
+	<key>Trachonitis</key><string> stony </string>
+	<key>Troas</key><string> penetrated </string>
+	<key>Tryphena</key><string> delicious; delicate </string>
+	<key>Tryphon</key><string> masculine of Tryphena </string>
+	<key>Tyrannus</key><string> a prince; one that reigns </string>
+	<key>Ucal</key><string> power </string>
+	<key>Uel</key><string> desiring God </string>
+	<key>Ulai</key><string> strength; fool; senseless </string>
+	<key>Ulla</key><string> elevation; leaf; young child </string>
+	<key>Upharsin</key><string> divided </string>
+	<key>Uphaz</key><string> pure gold; gold of Phasis or Pison </string>
+	<key>Urbane</key><string> courteous </string>
+	<key>Uthai</key><string> my iniquity </string>
+	<key>Uzai</key><string> he </string>
+	<key>Vajezatha</key><string> sprinkling the chamber </string>
+	<key>Vophsi</key><string> fragrant; diminution </string>
+	<key>Zachariah</key><string> memory of the Lord </string>
+	<key>Zamzummims</key><string> projects of crimes; enormous crimes </string>
+	<key>Zarah</key><string> east; brightness </string>
+	<key>Zared</key><string> strange descent </string>
+	<key>Zaretan</key><string> tribulation; perplexity </string>
+	<key>Zatthu</key><string> olive tree </string>
+	<key>Zebudah</key><string> endowed; endowing </string>
+	<key>Zelotes</key><string> zealous </string>
+	<key>Zemira</key><string> song; vine; palm </string>
+	<key>Zidkijah</key><string> justice of the Lord </string>
+	<key>Zidon</key><string> hunting; fishing; venison </string>
+	<key>Zif</key><string> this or that; brightness; comeliness </string>
+	<key>Zilthai</key><string> my shadow; my talk </string>
+	<key>Zithri</key><string> to hide; demolished </string>
+	<key>Zorobabel</key><string> same as Zerubbabel </string>
+	<key>Zuzims</key><string> the posts of a door; splendor; beauty </string>
+</dict>
 </plist>
