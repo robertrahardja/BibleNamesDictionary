@@ -2,6 +2,9 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>	
+	<key>Kedesh</key><string> Sacred Place. Sanctuary</string>
+	<key>Shimron Meron</key><string>The Place Of Watching And Prospering, or Vigilance And Prosperity.</string>
+	<key>Lasharon</key><string>the plain</string>
 	<key>Amorites</key><string>bitter; a rebel; a babbler</string>
 	<key>Hivite</key><string>wicked; wickedness</string>
 	<key>Jebusite</key><string>inhabitants of Jebus ie. trodden hard, or fastness, or "the waterless hill"</string>
