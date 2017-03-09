@@ -2,6 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>	
+	<key>Amorites</key><string>bitter; a rebel; a babbler</string>
 	<key>Hivite</key><string>wicked; wickedness</string>
 	<key>Jebusite</key><string>inhabitants of Jebus ie. trodden hard, or fastness, or "the waterless hill"</string>
 	<key>Perizzite</key><string>dwelling in villages</string>
@@ -715,7 +716,7 @@
 	<key>Ishmerai</key><string>Yahweh Keeps He Will Be Kept Of The Lord </string>
 	<key>Ishvah</key><string>He Is Equal He Will Be Equal, Alike, Level </string>
 	<key>Ishvi</key><string>Man Of Yahweh Equal </string>
-	<key>Israel</key><string>God Strives El Persisteth El Persevereth He Will Be Prince With God God's (Vicarious) Governor </string>
+	<key>Israel</key><string>God Strives. El Persisteth. El Persevereth. He Will Be Prince With God. God's (Vicarious) Governor </string>
 	<key>Issachar</key><string>Man Of Hire He Is Wages There Is Recompense </string>
 	<key>Italy</key><string>Young Land </string>
 	<key>Ithamar</key><string>Island Of Palms Land Of Palm (Is)land Of Palms? </string>
