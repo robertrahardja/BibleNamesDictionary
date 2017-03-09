@@ -2,6 +2,19 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>	
+	<key>Misrephoth</key><string>Burning Of Waters</string>
+	<key>Gebalites</key><string>Inhabitants of GEBAL (which see)</string>
+	<key>Gebalite</key><string>Inhabitants of GEBAL (which see)</string>
+	<key>Gebal</key><string>which see</string>
+	<key>Avvim</key><string>Inhabitants Of Desert Places. Those Who Inhabit Desert Places</string>
+	<key>Avite</key><string>Inhabitants Of Desert Places. Those Who Inhabit Desert Places</string>
+	<key>Avites</key><string>Inhabitants Of Desert Places. Those Who Inhabit Desert Places</string>
+	<key>Gath</key><string>Wine-Press</string>
+	<key>Gathite</key><string>Wine-Press</string>
+	<key>Gathites</key><string>Wine-Press</string>
+	<key>Gaza</key><string>strong. Strong place</string>
+	<key>Gazite</key><string>strong. Strong place</string>
+	<key>Gazites</key><string>strong. Strong place</string>
 	<key>Kedesh</key><string> Sacred Place. Sanctuary</string>
 	<key>Shimron Meron</key><string>The Place Of Watching And Prospering, or Vigilance And Prosperity.</string>
 	<key>Lasharon</key><string>the plain</string>
@@ -54,7 +67,6 @@
 	<key>Zephon</key><string>watch </string>
 	<key>Zereda</key><string>the fortress </string>
 	<key>Zoba</key><string>station </string>
-
 	<key>Aaron</key><string>Bright Very High </string>
 	<key>Abaddon</key><string>Destructive One Place Of Destruction </string>
 	<key>Abagtha</key><string>Fortune Given By Fortune Given By Fortune </string>
@@ -435,6 +447,8 @@
 	<key>Ehud</key><string>Joined I Shall Praise Union Joining Together </string>
 	<key>Eker</key><string>Offshoot Offspring A Shoot </string>
 	<key>Ekron</key><string>Extermination Uprooting, Emigration </string>
+	<key>Ekronite</key><string>Extermination Uprooting, Emigration </string>
+	<key>Ekronites</key><string>Extermination Uprooting, Emigration </string>
 	<key>Elah</key><string>An Oak Terebinth, Oak Terebinth </string>
 	<key>Elam</key><string>Hidden Hidden Time, Eternity Young Man Always </string>
 	<key>Elath</key><string>Terebinths Lofty Tree Trees </string>
@@ -1340,6 +1354,8 @@
 	<key>Shur</key><string>Fortification A Fort </string>
 	<key>Siddim</key><string>Furrows, Divisions, Fields Demons Plains </string>
 	<key>Sidon</key><string>Fishery Fishing Plenty Of Fish </string>
+	<key>Sidonian</key><string>Fishery Fishing Plenty Of Fish </string>
+	<key>Sidonians</key><string>Fishery Fishing Plenty Of Fish </string>
 	<key>Silla</key><string>Twig, Basket Heap Of Earth Highway </string>
 	<key>Simeon</key><string>He Who Hears Man Of Hearing Hearing Hearing With Acceptance </string>
 	<key>Simon</key><string>Hearing </string>
@@ -1609,6 +1625,8 @@
 	<key>Artemas</key><string> whole </string>
 	<key>Asareel</key><string> the beatitude of God </string>
 	<key>Ashdod</key><string> effusion; inclination; theft </string>
+	<key>Ashdodites</key><string> effusion; inclination; theft </string>
+	<key>Ashdodite</key><string> effusion; inclination; theft </string>
 	<key>Ashima</key><string> crime; offense </string>
 	<key>Ashnah</key><string> change </string>
 	<key>Ashriel</key><string> same as Asareel </string>
@@ -1616,6 +1634,9 @@
 	<key>Ashur</key><string> who is happy; or walks; or looks </string>
 	<key>Asia</key><string> muddy; boggy </string>
 	<key>Askelon</key><string> weight; balance; fire of infamy </string>
+	<key>Ashkelon</key><string> weight; balance; fire of infamy </string>
+	<key>Ashkelonite</key><string> weight; balance; fire of infamy </string>
+	<key>Ashkelonites</key><string> weight; balance; fire of infamy </string>
 	<key>Asnapper</key><string> unhappiness; increase of danger </string>
 	<key>Assos</key><string> approaching; coming near </string>
 	<key>Assur</key><string> same as Ashur </string>
@@ -1846,7 +1867,10 @@
 	<key>Gera</key><string> pilgrimage </string>
 	<key>Gergesenes</key><string> those who come from pilgrimage or fight </string>
 	<key>Gerizim</key><string> cutters </string>
-	<key>Geshur</key><string> Geshuri </string>
+	<key>Geshur</key><string> bridge </string>
+	<key>Geshuri</key><string> bridge </string>
+	<key>Geshurite</key><string> bridge </string>
+	<key>Geshurites</key><string> bridge </string>
 	<key>Geuel</key><string> God's redemption </string>
 	<key>Gezer</key><string> dividing </string>
 	<key>Gilboa</key><string> revolution of inquiry </string>
