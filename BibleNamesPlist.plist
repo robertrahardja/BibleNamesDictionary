@@ -2,6 +2,11 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>	
+	<key>Hivite</key><string>wicked; wickedness</string>
+	<key>Jebusite</key><string>inhabitants of Jebus ie. trodden hard, or fastness, or "the waterless hill"</string>
+	<key>Perizzite</key><string>dwelling in villages</string>
+	<key>Chinneroth</key><string>lyre, the singular or plural form of the word</string>
+	<key>Shimron</key><string>Watching. Vigilant Guardian</string>
 	<key>Adalia</key><string>a fire-god </string>
 	<key>Adria</key><string> Mare Superum_ of the Romans, as distinguished from the  Adrias, </string>
 	<key>Aphekah</key><string>strong place </string>
@@ -1110,7 +1115,6 @@
 	<key>Olympas</key><string>Hairy As Olympus Good Enough To Be On Olympus Gathering </string>
 	<key>Omar</key><string>Eloquent Uppermost </string>
 	<key>Omri</key><string>Yahweh Apportions Servant Of The Lord </string>
-	<key>On</key><string>Pillar Trouble, Sorrow, Wickedness Idolatry Vigor Wealth Stone Vigor </string>
 	<key>Onan</key><string>Iniquity Strong Vigorous </string>
 	<key>Onesimus</key><string>Useful, Profitable Beneficial </string>
 	<key>Onesiphorus</key><string>Profit-Bearing Profit Bringing </string>
