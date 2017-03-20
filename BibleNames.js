@@ -1121,7 +1121,7 @@
 "Nodab":"Nobility ",
 "Nogah":"Brilliance Shining Splendor ",
 "Nophah":"Windy Place A Blast ",
-"Nun":"Fish ",
+"Nun":"Fish.  to propagate or increase",
 "Obadiah":"Servant Of Yahweh Servant Of The Lord ",
 "Obal":"Bulky Stout To Be Bare Stripped Bare Of Leaves To Be Bare No Cloud \/ Clear Skies ",
 "Obed":"Servant Slave Servant Serving ",
