@@ -1,4 +1,6 @@
 {
+"Mahalaleel":"Praise Of God.",
+"Enosh":"Man Frail And Miserable. Mortal.",
 "Misrephoth":"Burning Of Waters",
 "Gebalite":"Inhabitants of GEBAL (which see)",
 "Gebal":" bound; limit ",
