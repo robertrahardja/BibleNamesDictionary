@@ -1216,6 +1216,7 @@
 "Ramoth":"High Places Heights Lofty Place ",
 "Reaiah":"Yahweh Has Provided For Vision Of The Lord Yah Has Seen ",
 "Reba":"Fourth Part Fourth Pervert Promiscuous ",
+"Rebeccah" : "A Rope With A Noose Tied Up Secured ",
 "Rebekah":"A Rope With A Noose Tied Up Secured ",
 "Rechab":"Rider Horseman Band Of Riders ",
 "Reelaiah":"Trembling Of The Lord ",
