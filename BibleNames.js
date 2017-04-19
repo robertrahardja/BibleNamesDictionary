@@ -1,4 +1,6 @@
 {
+"Shammua":"Renowned, Hearing",
+"Eliphelet":"God Is Deliverance, God Of Salvation or God The Savior",
 "Mahalaleel":"Praise Of God.",
 "Enosh":"Man Frail And Miserable. Mortal.",
 "Misrephoth":"Burning Of Waters",
