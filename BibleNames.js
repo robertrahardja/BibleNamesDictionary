@@ -1,5 +1,5 @@
 {
-"Pekah":"Open eyed",
+
 "Syria":"Elevated, High",
 "Shammua":"Renowned, Hearing",
 "Eliphelet":"God Is Deliverance, God Of Salvation or God The Savior",
