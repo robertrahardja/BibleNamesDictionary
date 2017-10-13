@@ -2082,7 +2082,7 @@
 "Kelitah":" same as Kelaiah ",
 "Kenah":" buying; possession ",
 "Kenaz":" this purchase; this lamentation ",
-"Kenites":" possession; purchase; lamentation ",
+"Kenites":" possession; purchase; lamentation, Pertaining To Coppersmiths.buyer ",
 "Kenizzites":" possession; purchase ",
 "Keros":" crooked; crookedness ",
 "Kezia":" superficies; the angle; cassia ",
